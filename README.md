@@ -18,6 +18,7 @@ Before you begin creating an application with this `devfile` code sample, it's h
 
 ## License
 
+
 This stack is licensed under the [EPL 2.0](./LICENSE) license.
 
 ### Additional resources
